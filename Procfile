@@ -1,0 +1,1 @@
+web: gunicorn negor_covid.wsgi --log-file -
