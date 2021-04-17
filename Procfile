@@ -1,1 +1,1 @@
-web: gunicorn negor_covid.wsgi --log-file -
+web: gunicorn dentist_website.wsgi --log-file -
